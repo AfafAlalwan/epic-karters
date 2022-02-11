@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fd4777c8-35bf-43a8-88f7-788026b979db}">
+		<property name="assetPath">
+			<value>38243-Honda-Civic-2001-Onboard-Engine_POV-60_kmh-Stop-Off-Parking_Brake.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>30.383310657596372</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e558b1ce-89aa-4a14-a1b5-de2d77da9993}</destination>
+		</relationship>
+	</object>
+</objects>

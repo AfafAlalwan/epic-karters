@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0998733e-0784-4c12-a15f-8c1ecd4aef1b}">
+		<property name="assetPath">
+			<value>274190-Ancient-Game-Magic-Essence-Collect-Hit-2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e558b1ce-89aa-4a14-a1b5-de2d77da9993}</destination>
+		</relationship>
+	</object>
+</objects>

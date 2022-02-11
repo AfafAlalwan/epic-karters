@@ -19,7 +19,7 @@ MonoBehaviour:
     Data3: -1040603205
     Data4: 13892564
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -46,7 +46,7 @@ MonoBehaviour:
     Data3: -582377084
     Data4: -1014556417
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -54,26 +54,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 2550
---- !u!114 &-6197965424773271386
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: ../../../Downloads/sounds/Mariokart/Build/Desktop/Master.bank
-  Name: Master
-  StudioPath: bank:/Master
-  lastModified: 637785533760000000
-  FileSizes:
-  - Name: Desktop
-    Value: 1012160
-  Exists: 1
 --- !u!114 &-5724275287308671826
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93,7 +73,7 @@ MonoBehaviour:
     Data3: -283300735
     Data4: -450616244
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -120,7 +100,7 @@ MonoBehaviour:
     Data3: 1376193465
     Data4: -1094439038
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -147,7 +127,7 @@ MonoBehaviour:
     Data3: -522688847
     Data4: 1910996411
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -174,7 +154,7 @@ MonoBehaviour:
     Data3: -1382342509
     Data4: 85465893
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
@@ -201,7 +181,7 @@ MonoBehaviour:
     Data3: 1471250829
     Data4: -413814179
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
@@ -222,8 +202,8 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   EditorBanks:
-  - {fileID: 5896186628646983902}
-  - {fileID: -6197965424773271386}
+  - {fileID: 2937677839963526346}
+  - {fileID: 405966898017850309}
   EditorEvents:
   - {fileID: 3051140201886524760}
   - {fileID: -412798104131277959}
@@ -238,15 +218,14 @@ MonoBehaviour:
   - {fileID: 7689107844465623946}
   - {fileID: -4732339615067367121}
   - {fileID: -8273829199782214582}
-  - {fileID: 1125595256552219141}
   EditorParameters: []
   MasterBanks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   StringsBanks:
-  - {fileID: 5896186628646983902}
-  cacheTime: 637785533760000000
+  - {fileID: 2937677839963526346}
+  cacheTime: 637785649627432604
   cacheVersion: 10
---- !u!114 &1125595256552219141
+--- !u!114 &405966898017850309
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -255,24 +234,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Actions/Coin
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
   m_EditorClassIdentifier: 
-  Path: event:/Actions/Coin
-  Guid:
-    Data1: -1177200545
-    Data2: 1290903723
-    Data3: 220152487
-    Data4: -2076888309
-  Banks:
-  - {fileID: -6197965424773271386}
-  IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 360
+  Path: ../../../sounds/Mariokart/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637785649627402599
+  FileSizes:
+  - Name: Desktop
+    Value: 995776
+  Exists: 1
 --- !u!114 &1146371589164928127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -292,7 +264,7 @@ MonoBehaviour:
     Data3: -1545729858
     Data4: 641964023
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
@@ -319,7 +291,7 @@ MonoBehaviour:
     Data3: 1051630997
     Data4: 74218270
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -327,6 +299,26 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 5100
+--- !u!114 &2937677839963526346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../../sounds/Mariokart/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637785649627432604
+  FileSizes:
+  - Name: Desktop
+    Value: 1344
+  Exists: 1
 --- !u!114 &2972864391159352482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -346,7 +338,7 @@ MonoBehaviour:
     Data3: -728637530
     Data4: -2001424542
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1
@@ -373,7 +365,7 @@ MonoBehaviour:
     Data3: -1127956040
     Data4: -1677950456
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 1
   Is3D: 1
   IsOneShot: 1
@@ -400,7 +392,7 @@ MonoBehaviour:
     Data3: 674423943
     Data4: 1953247083
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 0
@@ -408,26 +400,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 2000
---- !u!114 &5896186628646983902
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.strings.bank
-  m_EditorClassIdentifier: 
-  Path: ../../../Downloads/sounds/Mariokart/Build/Desktop/Master.strings.bank
-  Name: Master.strings
-  StudioPath: bank:/Master.strings
-  lastModified: 637785533760000000
-  FileSizes:
-  - Name: Desktop
-    Value: 1388
-  Exists: 1
 --- !u!114 &7689107844465623946
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -447,7 +419,7 @@ MonoBehaviour:
     Data3: -410826617
     Data4: 831749496
   Banks:
-  - {fileID: -6197965424773271386}
+  - {fileID: 405966898017850309}
   IsStream: 0
   Is3D: 1
   IsOneShot: 1

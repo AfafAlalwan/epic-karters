@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b16bcc64-54e8-401b-ae01-9ee7fb9c3cf9}">
+		<property name="assetPath">
+			<value>281608-EFX_SD_Forrest_Bird_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.3868749999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e558b1ce-89aa-4a14-a1b5-de2d77da9993}</destination>
+		</relationship>
+	</object>
+</objects>

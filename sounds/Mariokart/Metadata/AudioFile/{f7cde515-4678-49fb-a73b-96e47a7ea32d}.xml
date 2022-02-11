@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f7cde515-4678-49fb-a73b-96e47a7ea32d}">
+		<property name="assetPath">
+			<value>526893-CRWDLoop-New_Years_Eve_Countdown_L_R-344_Audio-Screaming_Vol_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.09021875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e558b1ce-89aa-4a14-a1b5-de2d77da9993}</destination>
+		</relationship>
+	</object>
+</objects>
